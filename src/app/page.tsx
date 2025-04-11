@@ -13,7 +13,7 @@ const page = () => {
           <main className="flex">
             <div className="flex-1 relative md:hidden">
               <div className="relative mx-auto max-w-4xl mt-12 md:mt-10">
-                <div className="relative mx-auto w-3/4 h-[400px]">
+                <div className="relative mx-auto w-3/4 h-[430px]">
                   <div className="absolute inset-0 w-full h-full rounded-2xl overflow-hidden">
                     <Image
                       src="/cocoa.jpg"

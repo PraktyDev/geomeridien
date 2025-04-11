@@ -36,7 +36,7 @@ export const Timeline = ({ data }: { data: TimelineEntry[] }) => {
       className="w-full bg-green-50 dark:bg-neutral-950 font-sans md:px-10"
       ref={containerRef}
     >
-      <div className="max-w-7xl mx-auto pt-7 md:pt-24 px-4 md:px-8 lg:px-10 z-30 flex flex-col justify-center items-center gap-3">
+      <div className="max-w-7xl mx-auto pt-7 pb-4 md:pt-24 px-4 md:px-8 lg:px-10 z-30 flex flex-col justify-center items-center gap-3">
         <h2 className="text-4xl z-10 md:text-7xl font-bold text-center text-green-900 dark:text-white max-w-4xl">
           Tourism Spots in Ibadan
         </h2>
