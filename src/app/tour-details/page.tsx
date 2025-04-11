@@ -79,7 +79,7 @@ const Page = () => {
 
   return (
     <main className="bg-green-50 w-full">
-      <section className="container mx-auto px-4 py-10 z-50 md:mt-20 ">
+      <section className="container mx-auto px-4 py-6 md:py-10 z-50 md:mt-20 ">
         {/* Top row boxes */}
         <div className="flex flex-col md:flex-row gap-6 w-full z-30">
           <div className="group/box1 cursor-default relative overflow-hidden rounded-xl bg-gradient-to-br from-purple-500 to-indigo-600 transition-all duration-500 ease-in-out md:basis-3/5 hover:md:basis-3/4 h-64 peer">
