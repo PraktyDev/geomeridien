@@ -441,10 +441,10 @@ const page = () => {
           </p>
           <div className="grid grid-cols-2 gap-4">
             <Image
-              src="https://assets.aceternity.com/pro/hero-sections.png"
+              src="/awba1.jpeg"
               alt="hero template"
-              width={500}
-              height={500}
+              width={400}
+              height={180}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
@@ -491,31 +491,17 @@ const page = () => {
           </p>
           <div className="grid grid-cols-2 gap-4">
             <Image
-              src="https://assets.aceternity.com/pro/hero-sections.png"
-              alt="hero template"
-              width={500}
-              height={500}
+              src="/zoo1.jpg"
+              alt="ui zoo"
+              width={740}
+              height={555}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src="https://assets.aceternity.com/features-section.png"
-              alt="feature template"
+              src="/zoo2.jpg"
+              alt="ui zoo"
               width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/pro/bento-grids.png"
-              alt="bento template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/cards.png"
-              alt="cards template"
-              width={500}
-              height={500}
+              height={250}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
           </div>
@@ -581,31 +567,24 @@ const page = () => {
           </p>
           <div className="grid grid-cols-2 gap-4">
             <Image
-              src="https://assets.aceternity.com/pro/hero-sections.png"
-              alt="hero template"
-              width={500}
-              height={500}
+              src="/culinary.png"
+              alt="culinary picture"
+              width={1131}
+              height={600}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src="https://assets.aceternity.com/features-section.png"
-              alt="feature template"
-              width={500}
-              height={500}
+              src="/culinary2.png"
+              alt="culinary picture"
+              width={700}
+              height={400}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src="https://assets.aceternity.com/pro/bento-grids.png"
-              alt="bento template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/cards.png"
-              alt="cards template"
-              width={500}
-              height={500}
+              src="/culinary3.jpg"
+              alt="culinary picture"
+              width={612}
+              height={408}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
           </div>
@@ -622,31 +601,31 @@ const page = () => {
           </p>
           <div className="grid grid-cols-2 gap-4">
             <Image
-              src="https://assets.aceternity.com/pro/hero-sections.png"
-              alt="hero template"
-              width={500}
-              height={500}
+              src="/market1.jpg"
+              alt="market visit"
+              width={720}
+              height={480}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src="https://assets.aceternity.com/features-section.png"
-              alt="feature template"
-              width={500}
-              height={500}
+              src="/market2.jpg"
+              alt="market visit"
+              width={1241}
+              height={671}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src="https://assets.aceternity.com/pro/bento-grids.png"
-              alt="bento template"
-              width={500}
-              height={500}
+              src="/market3.jpg"
+              alt="market visit"
+              width={980}
+              height={552}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src="https://assets.aceternity.com/cards.png"
-              alt="cards template"
-              width={500}
-              height={500}
+              src="/market4.jpg"
+              alt="market visit"
+              width={735}
+              height={450}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
           </div>

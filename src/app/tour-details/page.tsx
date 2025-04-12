@@ -131,14 +131,14 @@ const Page = () => {
 
         {/* Text section between rows */}
         <div className="my-12 text-center">
-          <h1 className="text-green-900 text-4xl md:text-5xl font-bold tracking-wider mb-4">
+          <h1 className="text-green-900 dark:text-[#7AC142] text-4xl md:text-5xl font-bold tracking-wider mb-4">
             Tour Details
           </h1>
-          <p className="text-base md:text-lg text-muted-foreground max-w-2xl mx-auto">
+          <p className="text-base md:text-lg text-muted-foreground dark:text-neutral-100 max-w-2xl mx-auto">
             Kindly note that all destinations have their entrance fees, and all
             the destinations are secured and suitable for tourists to visit.
           </p>
-          <p className="text-base md:text-lg mt-3 text-muted-foreground max-w-2xl mx-auto">
+          <p className="text-base md:text-lg mt-3 text-muted-foreground dark:text-neutral-100 max-w-2xl mx-auto">
             A tour guide is available every day but you have to book ahead so
             that a tour guide will be assigned to you. A package will be created
             for you or your group based on the chosen packages curated just for
@@ -198,10 +198,10 @@ const Page = () => {
 
       {/* Also Available Section */}
       <section className="container px-4 mx-auto pb-10 md:pb-28">
-        <h2 className="text-3xl font-bold text-green-900 text-center mb-2">
+        <h2 className="text-3xl font-bold text-green-900 dark:text-[#7AC142] text-center mb-2">
           Also Available
         </h2>
-        <div className="w-20 h-1 bg-emerald-500 mx-auto mb-12 rounded-full"></div>
+        <div className="w-20 h-1 bg-emerald-500 dark:bg-white mx-auto mb-12 rounded-full"></div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           {/* Hotel Pickup */}
@@ -361,7 +361,7 @@ const Page = () => {
           <DialogTitle></DialogTitle>
           <DialogDescription></DialogDescription>
         </DialogHeader>
-        <DialogContent className="sm:max-w-md bg-white border border-gray-100 z-50">
+        <DialogContent className="sm:max-w-md bg-white border border-gray-100 z-99">
           <Form {...form}>
             <form
               onSubmit={form.handleSubmit(onSubmit)}

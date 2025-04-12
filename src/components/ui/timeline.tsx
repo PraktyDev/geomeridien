@@ -37,10 +37,10 @@ export const Timeline = ({ data }: { data: TimelineEntry[] }) => {
       ref={containerRef}
     >
       <div className="max-w-7xl mx-auto pt-7 pb-4 md:pt-24 px-4 md:px-8 lg:px-10 z-30 flex flex-col justify-center items-center gap-3">
-        <h2 className="text-4xl z-10 md:text-7xl font-bold text-center text-green-900 dark:text-white max-w-4xl">
+        <h2 className="text-4xl z-10 md:text-7xl font-bold text-center text-green-900 dark:text-green-100 max-w-4xl">
           Tourism Spots in Ibadan
         </h2>
-        <div className="dark:bg-amber-500 w-1/4 md:w-1/4 h-1 md:h-3 rounded-full" />
+        <div className="dark:bg-amber-500 w-1/4 md:w-1/5 h-1 my-2 rounded-full" />
       </div>
 
       <div ref={ref} className="z-10 relative max-w-7xl mx-auto pb-16 md:pb-32 -mt-10 md:-mt-0">
