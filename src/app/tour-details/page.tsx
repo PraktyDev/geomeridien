@@ -78,7 +78,7 @@ const Page = () => {
   }
 
   return (
-    <main className="bg-green-50 w-full">
+    <main className="bg-green-50 dark:bg-neutral-950 w-full">
       <section className="container mx-auto px-4 py-6 md:py-10 z-50 md:mt-20 ">
         {/* Top row boxes */}
         <div className="flex flex-col md:flex-row gap-6 w-full z-30">
