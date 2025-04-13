@@ -3,7 +3,7 @@ import React from "react";
 
 const NavHeader = () => {
   return (
-    <header className="w-full bg-[#F5F5F5] flex justify-between items-center px-4 py-2 md:px-6 md:py-4 sticky md:fixed top-0 z-99 shadow-lg backdrop-blur-md">
+    <header className="w-full bg-[#F5F5F5] flex justify-between items-center px-4 py-2 md:px-6 md:py-4 sticky md:fixed top-0 z-50 shadow-lg backdrop-blur-md">
       <Image
         src="/geotravels.png"
         alt="geomeridien logo"

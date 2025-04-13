@@ -69,7 +69,7 @@ export function DockLink() {
     },
   ];
   return (
-    <div className="flex items-center justify-center fixed bottom-4 left-4 md:inset-x-0 z-99">
+    <div className="flex items-center justify-center fixed bottom-4 left-4 md:inset-x-0 z-90">
       <FloatingDock
         mobileClassName="" 
         items={links}

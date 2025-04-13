@@ -519,7 +519,7 @@ const Page = () => {
                             <SelectValue placeholder="Select" />
                           </SelectTrigger>
                           <SelectContent
-                            className="w-full bg-white"
+                            className="w-full bg-white z-99"
                             position="popper"
                           >
                             <SelectItem className="hover:bg-gray-200" value="0">
