@@ -10,10 +10,10 @@ const page = () => {
         <div className="absolute inset-0 opacity-70 bg-black" />
         <div className="relative z-10 flex flex-col justify-center items-center">
           {/* Visible Only On mobile */}
-          <main className="flex md:hidden w-3/4 h-[375px] mb-9">
+          <main className="flex md:hidden w-11/12 h-[375px] mb-9">
             <div className="flex-1 relative">
               <div className="relative mx-auto max-w-4xl mt-7 md:mt-10">
-                <div className="relative mx-auto w-3/4 h-[375px]">
+                <div className="relative mx-auto w-11/12 h-[375px]">
                   <div className="absolute inset-0 w-full h-full rounded-2xl overflow-hidden">
                     <Image
                       src="/cocoa.jpg"
@@ -28,7 +28,7 @@ const page = () => {
                     <Star className="text-white" size={20} fill="white" />
                   </div>
 
-                  <div className="z-10 absolute bottom-5 right-0 w-16 h-16 bg-[#ffc107] rounded-full flex items-center justify-center">
+                  <div className="z-10 absolute bottom-5 right-2.5 w-16 h-16 bg-[#ffc107] rounded-full flex items-center justify-center">
                     <div className="w-14 h-14 border border-dashed border-[#1a0a2e] rounded-full flex items-center justify-center">
                       <div className="text-[#1a0a2e] text-center text-xs font-bold">
                         BEST TOUR
@@ -37,7 +37,7 @@ const page = () => {
                   </div>
                 </div>
 
-                <div className="absolute top-10 right-10 w-32 h-48 bg-white rounded-xl overflow-hidden shadow-lg transform rotate-6">
+                <div className="absolute top-10 right-3 w-32 h-48 bg-white rounded-xl overflow-hidden shadow-lg transform rotate-6">
                   <div className="relative w-full h-full">
                     <Image
                       src="/bowers.jpg"
@@ -77,7 +77,7 @@ const page = () => {
             <div className="text-amber-500 -mt-5 md:-mt-8 text-8xl md:text-9xl font-bold leading-none">
               Brown
             </div>
-            <div className="text-amber-500 ml-18 md:ml-32 -mt-5 md:-mt-8 text-8xl md:text-9xl font-bold leading-none">
+            <div className="text-amber-500 ml-10 md:ml-32 -mt-5 md:-mt-8 text-8xl md:text-9xl font-bold leading-none">
               Roofs
             </div>
 
