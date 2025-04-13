@@ -213,31 +213,10 @@ const page = () => {
           </p>
           <div className="grid grid-cols-2 gap-4">
             <Image
-              src="https://assets.aceternity.com/pro/hero-sections.png"
-              alt="hero template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/features-section.png"
-              alt="feature template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/pro/bento-grids.png"
-              alt="bento template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/cards.png"
-              alt="cards template"
-              width={500}
-              height={500}
+              src="/ibadan1.jpg"
+              alt="ibadan house"
+              width={1000}
+              height={809}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
           </div>
@@ -260,31 +239,24 @@ const page = () => {
           </p>
           <div className="grid grid-cols-2 gap-4">
             <Image
-              src="https://assets.aceternity.com/pro/hero-sections.png"
-              alt="hero template"
-              width={500}
-              height={500}
+              src="/odua.jpg"
+              alt="odua museum"
+              width={330}
+              height={209}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src="https://assets.aceternity.com/features-section.png"
-              alt="feature template"
-              width={500}
-              height={500}
+              src="/odua2.jpg"
+              alt="odua museum"
+              width={660}
+              height={330}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src="https://assets.aceternity.com/pro/bento-grids.png"
-              alt="bento template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/cards.png"
-              alt="cards template"
-              width={500}
-              height={500}
+              src="/odua3.jpg"
+              alt="odua museum"
+              width={650}
+              height={300}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
           </div>
@@ -306,31 +278,17 @@ const page = () => {
           </p>
           <div className="grid grid-cols-2 gap-4">
             <Image
-              src="https://assets.aceternity.com/pro/hero-sections.png"
-              alt="hero template"
-              width={500}
-              height={500}
+              src="/musuem.jpg"
+              alt="ibadan musuem"
+              width={640}
+              height={358}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src="https://assets.aceternity.com/features-section.png"
-              alt="feature template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/pro/bento-grids.png"
-              alt="bento template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/cards.png"
-              alt="cards template"
-              width={500}
-              height={500}
+              src="/musuem2.jpeg"
+              alt="ibadan musuem"
+              width={1000}
+              height={750}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
           </div>
@@ -349,31 +307,17 @@ const page = () => {
           </p>
           <div className="grid grid-cols-2 gap-4">
             <Image
-              src="https://assets.aceternity.com/pro/hero-sections.png"
-              alt="hero template"
-              width={500}
-              height={500}
+              src="/irefin1.png"
+              alt="irefin palace"
+              width={700}
+              height={400}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src="https://assets.aceternity.com/features-section.png"
-              alt="feature template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/pro/bento-grids.png"
-              alt="bento template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/cards.png"
-              alt="cards template"
-              width={500}
-              height={500}
+              src="/irefin2.jpg"
+              alt="irefin palace"
+              width={350}
+              height={233}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
           </div>
@@ -398,31 +342,17 @@ const page = () => {
           </p>
           <div className="grid grid-cols-2 gap-4">
             <Image
-              src="https://assets.aceternity.com/pro/hero-sections.png"
-              alt="hero template"
-              width={500}
-              height={500}
+              src="/eleyele.png"
+              alt="eleyele lake"
+              width={703}
+              height={408}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src="https://assets.aceternity.com/features-section.png"
-              alt="feature template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/pro/bento-grids.png"
-              alt="bento template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/cards.png"
-              alt="cards template"
-              width={500}
-              height={500}
+              src="/eleyele3.jpeg"
+              alt="eleyele lake"
+              width={1024}
+              height={682}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
           </div>
@@ -442,30 +372,23 @@ const page = () => {
           <div className="grid grid-cols-2 gap-4">
             <Image
               src="/awba1.jpeg"
-              alt="hero template"
+              alt="awba dam"
               width={400}
               height={180}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src="https://assets.aceternity.com/features-section.png"
-              alt="feature template"
-              width={500}
-              height={500}
+              src="/awba2.jpeg"
+              alt="awba dam"
+              width={787}
+              height={353}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src="https://assets.aceternity.com/pro/bento-grids.png"
-              alt="bento template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/cards.png"
-              alt="cards template"
-              width={500}
-              height={500}
+              src="/awba2.jpeg"
+              alt="awba dam"
+              width={1217}
+              height={695}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
           </div>
@@ -519,31 +442,17 @@ const page = () => {
           </p>
           <div className="grid grid-cols-2 gap-4">
             <Image
-              src="https://assets.aceternity.com/pro/hero-sections.png"
-              alt="hero template"
-              width={500}
-              height={500}
+              src="/gokart1.jpg"
+              alt="Go kart arena"
+              width={1080}
+              height={719}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
             <Image
-              src="https://assets.aceternity.com/features-section.png"
-              alt="feature template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/pro/bento-grids.png"
-              alt="bento template"
-              width={500}
-              height={500}
-              className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
-            />
-            <Image
-              src="https://assets.aceternity.com/cards.png"
-              alt="cards template"
-              width={500}
-              height={500}
+              src="/gokart2.jpg"
+              alt="Go kart arena"
+              width={1080}
+              height={810}
               className="rounded-lg object-cover h-20 md:h-44 lg:h-60 w-full shadow-[0_0_24px_rgba(34,_42,_53,_0.06),_0_1px_1px_rgba(0,_0,_0,_0.05),_0_0_0_1px_rgba(34,_42,_53,_0.04),_0_0_4px_rgba(34,_42,_53,_0.08),_0_16px_68px_rgba(47,_48,_55,_0.05),_0_1px_0_rgba(255,_255,_255,_0.1)_inset]"
             />
           </div>
